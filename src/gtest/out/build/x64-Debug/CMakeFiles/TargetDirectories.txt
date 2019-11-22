@@ -1,0 +1,4 @@
+H:/VisualStudioProject/ABCcoin/ABCcpu/src/gtest/out/build/x64-Debug/CMakeFiles/gtest.dir
+H:/VisualStudioProject/ABCcoin/ABCcpu/src/gtest/out/build/x64-Debug/CMakeFiles/gtest_main.dir
+H:/VisualStudioProject/ABCcoin/ABCcpu/src/gtest/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+H:/VisualStudioProject/ABCcoin/ABCcpu/src/gtest/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
